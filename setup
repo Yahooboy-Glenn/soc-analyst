@@ -1,0 +1,15 @@
+Lab Setup: The lab consists of:
+
+Elastic and Kibana Server: For log management and visualization.
+Windows Server with RDP: Remote desktop access enabled.
+Ubuntu Server with SSH: Secure access to a Linux server.
+Fleet Server: Likely for managing security agents.
+OS Ticket Server: For ticket management.
+C2 (Command and Control) Server: For simulating adversarial activity.
+VPC Configuration: The network includes a Virtual Private Cloud (VPC) for internal communication among servers.
+
+Additional Elements:
+
+Internet Gateway: Represents the connection to the internet.
+Laptop Connections: SOC Analyst's laptop and Attacker’s laptop are added to simulate both defensive and offensive activities.
+Diagram Structure and Customization: The video emphasizes the importance of organizing and labeling connections clearly. Adjustments, such as making arrows bidirectional and adding colors to signify different roles, help visualize data flows and access points effectively.
