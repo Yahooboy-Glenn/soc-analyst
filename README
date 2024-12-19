@@ -1,0 +1,50 @@
+# Welcome to My GitHub Profile! 👋
+
+## About Me
+Hi, I’m Glenn, a cybersecurity enthusiast and aspiring SOC Analyst. I enjoy building hands-on projects that simulate real-world scenarios in cybersecurity, network management, and cloud technologies. My goal is to continuously learn and share my knowledge through practical implementations.
+
+---
+
+## Featured Projects
+
+### 1. **SOC Lab Project**
+A hands-on Security Operations Center (SOC) lab designed to simulate enterprise-level cybersecurity operations.
+- **Key Features:**
+  - SIEM setup with Elastic Stack (Elasticsearch, Logstash, Kibana)
+  - Active Directory integration for user management and access control
+  - Threat detection, incident response, and custom automation using Python and PowerShell
+  - Interactive dashboards and alerts for monitoring and analysis
+- **Demo Video:**  
+[![SOC Lab Video]https://youtu.be/Xqd0jA1q81U
+
+[Click here]https://youtu.be/Xqd0jA1q81U to watch the full video walkthrough!
+
+- **Repository Link:** [SOC Lab Repo](#) *(Coming Soon)*
+
+---
+
+### 2. **Python Expense Tracker**
+A Python application for tracking personal expenses with data visualization and reporting capabilities.
+- **Key Features:**
+  - User-friendly interface for adding and managing expenses
+  - Generates monthly summaries and visual reports
+  - Built-in data export to CSV for record-keeping
+- **Repository Link:** [Expense Tracker Repo](#)
+
+---
+
+## Skills & Technologies
+- **Cybersecurity:** Threat detection, log analysis, incident response
+- **Programming:** Python, PowerShell, Bash
+- **Tools:** Elastic Stack, Active Directory, Wireshark, Splunk
+- **Cloud:** AWS fundamentals
+- **Other:** SQL, Ansible, ProPresenter 7 (Media Management)
+
+---
+
+## Let’s Connect
+- **LinkedIn:** https://www.linkedin.com/in/glenn-mills-876624218/
+- **YouTube:** [Glenn's Channel](https://www.youtube.com/channel/YOUR_CHANNEL_ID)
+- **GitHub Portfolio:** [Yahooboy-Glenn](https://github.com/Yahooboy-Glenn)
+
+Feel free to explore my projects and reach out with any questions or collaboration ideas!
