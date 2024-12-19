@@ -13,3 +13,19 @@ Additional Elements:
 Internet Gateway: Represents the connection to the internet.
 Laptop Connections: SOC Analyst's laptop and Attacker’s laptop are added to simulate both defensive and offensive activities.
 Diagram Structure and Customization: The video emphasizes the importance of organizing and labeling connections clearly. Adjustments, such as making arrows bidirectional and adding colors to signify different roles, help visualize data flows and access points effectively.
+
+Cybersecurity SOC Lab Project
+Personal Project | GitHub Portfolio
+
+SIEM Implementation: Set up and configured the Elastic Stack (Elasticsearch, Logstash, Kibana) to serve as a Security Information and Event Management (SIEM) platform for real-time log monitoring, threat detection, and analysis.
+Active Directory Integration: Deployed and integrated Active Directory to simulate an enterprise-grade network environment, implementing user roles, group policies, and access controls to manage identity and authorization.
+Incident Response: Conducted simulated incident response scenarios, including detecting brute force attacks, privilege escalation attempts, and malicious logins.
+Log Ingestion & Parsing: Automated the ingestion of logs from multiple sources (Windows, Linux, network devices) using Logstash pipelines; parsed and enriched logs for actionable insights.
+Data Visualization & Reporting: Created interactive dashboards in Kibana for threat intelligence, identifying trends, and providing comprehensive security metrics.
+Alerting: Configured alerts for critical events, such as failed login attempts and unauthorized access, to ensure rapid response to potential security incidents.
+Custom Scripts: Developed Python and PowerShell scripts to automate repetitive tasks, such as log rotation, data backup, and event correlation.
+Threat Hunting: Utilized SIEM tools to identify and analyze Indicators of Compromise (IoCs) and conducted root cause analysis for simulated attacks.
+Documentation: Produced detailed documentation for SOC workflows, lab setup, and step-by-step incident response processes.
+Key Skills Gained: Log management, network monitoring, system hardening, threat detection, security reporting, and familiarity with industry frameworks like MITRE ATT&CK.
+
+Here is a Link to my Youtube showcasing my lab 
